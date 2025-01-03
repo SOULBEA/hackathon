@@ -1,0 +1,12 @@
+youtube_api:
+  scopes:
+    - https://www.googleapis.com/auth/youtube.readonly
+    - https://www.googleapis.com/auth/yt-analytics.readonly
+    - https://www.googleapis.com/auth/youtube
+    - https://www.googleapis.com/auth/youtubepartner
+    - https://www.googleapis.com/auth/yt-analytics-monetary.readonly
+
+datastax:
+  secure_connect_bundle: "C:\\Users\\Arpit Singh\\Downloads\\secure-connect-youtube-analytics.zip"
+  client_id: "UjxZHsUkLjrPyzdeGnnicOiv"
+  client_secret: "H+ymN0pdHQ6tlS,CcNDnLo+l9OzC_1PwOdj+_fZNw.SYZjX.te2D+uLbB4UjZgNSx,9.x-eLw+XoxSYhq,vzA5nvIaDE2DLW+qpm3qReRzvpq7.JptxDCm8kl02C-pJQ" 
