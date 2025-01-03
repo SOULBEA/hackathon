@@ -64,7 +64,7 @@ pip install -r requirements.txt
    - Download credentials as `client_secrets.json`
    - Place `client_secrets.json` in project root directory
 
-4. Configure DataStax (Optional):
+4. Configure DataStax:
    - Create account on [DataStax Astra](https://astra.datastax.com)
    - Download secure connect bundle
    - Update `config/config.yaml` with your credentials
